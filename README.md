@@ -47,9 +47,12 @@ Bunny contestants register with their names and poems, then compete to become th
 
 ## 📌 Sample Output
 Chief Bunny received a signal from a bunny.
+
 Fluffy Whiskers recites: “Springtime blooms and eggs so red…”
+
 pinky recites: “Roses are red, violets are blue…”
 …
+
 Easter Bunny King
 Name: Fluffy Whiskers
 Poem: Springtime blooms and eggs so red…
